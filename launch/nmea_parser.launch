@@ -1,0 +1,5 @@
+<launch>
+
+  <node name="nmea_parser" pkg="nmea_parser" type="nmea_parser" output="screen" />
+
+</launch>
